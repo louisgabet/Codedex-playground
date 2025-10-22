@@ -13,3 +13,8 @@ It’s one of the most popular languages used today — from **web development**
 Python was my starting point on [**Codédex**](https://www.codedex.io),  
 where I explored the basics of **variables**, **flow control**, **loops**, and **functions**.  
 Each project helps me improve my problem-solving skills and write cleaner, more efficient code.
+
+## 🪙 Python Projects
+
+Here’s a list of all the **Python projects** I’ve completed while learning on [**Codédex**](https://www.codedex.io).  
+I’ll keep adding more as I continue my journey! 🚀
