@@ -24,6 +24,8 @@ I’m not just a student; I love to practice **sports** like **weight training**
 
 One of my favorite **activities** is playing music. I taught myself **piano**, **guitar**, and **drums**.  
 
+I’m also in a **theater troupe** at my university.  
+
 For now, I have a **jazz band** with two friends, and we plan to **perform a concert in March 2026**. 🎷
 
 ---
