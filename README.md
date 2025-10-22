@@ -10,9 +10,14 @@ It offers beginner-friendly lessons, challenges, and projects in multiple progra
 Through hands-on exercises and guided tutorials, I’ve learned to build real mini-projects while improving my understanding of programming logic, problem-solving, and clean code.
 
 # 👽 About Me
-I’m a French student at 👽Unilasalle-Amiens👽, studying computer networking and IoT in my fourth year. I want to improve my skills in different subjects like programming, 
-networking, and my English skills (Yes, I know I’m French). Using GitHub is the best way to succeed.
-For now, GitHub will only focus on programming, but I hope that in the future, I will also explore other domains.
+I’m a French student at 👽**Unilasalle-Amiens**👽,  
+studying **computer networking** and **IoT (Internet of Things)** in my fourth year.
+
+I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
+
+Using GitHub is the **best way to succeed**.  
+
+For now, GitHub will only focus on **programming**, but I hope that in the future, I will also explore other domains.
 ---
 
 ## 🚀 My Codédex Journey
