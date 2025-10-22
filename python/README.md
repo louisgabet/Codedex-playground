@@ -20,4 +20,4 @@ Here’s a list of all the **Python projects** I’ve completed while learning o
 I’ll keep adding more as I continue my journey! 🚀
 
 ### 📂 My Projects
-- [x] 🧮 [Area Calculator](./python/area_calculator.py) — calculates the area of different shapes  
+- [x] 🧮 [Area Calculator](area_calculator.py) — calculates the area of different shapes  
