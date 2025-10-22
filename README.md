@@ -11,7 +11,7 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 
 # 👽 About Me
 
-I’m a French student at 👽**Unilasalle-Amiens**👽, a **French engineering school** (Grande École d’Ingénieurs) that offers four main programs: **Energy, Building, Computer Science & IoT, and Industrial Systems**.  
+I’m a French student at 👽[**Unilasalle-Amiens**](https://www.unilasalle-amiens.fr/)👽, a French engineering school (Grande École d’Ingénieurs) that offers four main programs: **Energy, Building, Computer Science & IoT, and Industrial Systems**.  
 I’m currently studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
 
 I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
