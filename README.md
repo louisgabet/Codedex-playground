@@ -18,6 +18,14 @@ Using GitHub is the **best way to succeed**.
 
 For now, GitHub will only focus on **programming**, but I hope that in the future, I will also explore other domains.
 
+## 🎵 Hobbies & Interests
+
+I’m not just a student; I love to practice **sports** like **weight training**, **running**, and **football**.  
+
+One of my favorite **activities** is playing music. I taught myself **piano**, **guitar**, and **drums**.  
+
+For now, I have a **jazz band** with two friends, and we plan to **perform a concert in March 2026**. 🎷
+
 ---
 
 ## 🚀 My Codédex Journey
