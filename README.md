@@ -1,9 +1,8 @@
 # Codedex-playground
+
 Here, you can find all the scripts I’ve written for different projects as I learned various programming languages on Codédex.
 
 # 💻 About Codédex
-
-[![Codédex Logo](https://www.codedex.io/images/logo.svg)](https://www.codedex.io)
 
 [**Codédex**](https://www.codedex.io/) is an **interactive learning platform** that makes coding fun and accessible.  
 It offers beginner-friendly lessons, challenges, and projects in multiple programming languages like **Python**, **JavaScript**, and **HTML/CSS**.
