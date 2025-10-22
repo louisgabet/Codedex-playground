@@ -28,6 +28,9 @@ I’m also in a **theater troupe** at my university.
 
 For now, I have a **jazz band** with two friends, and we plan to **perform a concert in March 2026**. 🎷
 
+I also love **cooking**, **3D printing**, **composing and producing music**, **video editing**, and many other activities.  
+I enjoy **exploring new things** and discovering new ways to be creative. 🎨
+
 ---
 
 ## 🚀 My Codédex Journey
