@@ -21,3 +21,16 @@ I’ll keep adding more as I continue my journey! 🚀
 
 ### 📂 My Projects
 - [x] 🧮 [Area Calculator](area_calculator.py) — calculates the area of different shapes  
+- [🚀] 🎲 [Dice Roller](./python/dice_roller.py) — coming soon!  
+- [🚀] 📅 [Date Formatter](./python/date_formatter.py) — coming soon!  
+- [🚀] 🔢 [Number Guessing Game](./python/number_guess.py) — coming soon!  
+- [🚀] 🧾 [Tip Calculator](./python/tip_calculator.py) — coming soon!  
+
+> 🪙 *Each project helps me practice Python concepts like variables, loops, conditionals, and functions.*
+
+---
+
+### 💡 Legend
+- ✅ / [x] → Completed  
+- ⏳ / [ ] → Work in progress  
+- 🚀 → To be added soon
