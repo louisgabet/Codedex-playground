@@ -13,5 +13,5 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 
 ## 🚀 My Codédex Journey
 
-This repository contains all the **projects and exercises**
-
+This repository contains all the **projects and exercises in :**
+1. [Python] Python
