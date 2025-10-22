@@ -11,8 +11,8 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 
 # 👽 About Me
 
-I’m a French student at 👽[**Unilasalle-Amiens**](https://www.unilasalle-amiens.fr/)👽,  
-studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
+I’m a French student at 👽[**Unilasalle-Amiens**](https://www.unilasalle-amiens.fr/)👽, a **French engineering school** (Grande École d’Ingénieurs) that specializes in **engineering, computer science, and IoT**.  
+I’m currently studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
 
 I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
 Using GitHub is the **best way to succeed**.  
