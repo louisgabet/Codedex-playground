@@ -11,7 +11,7 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 
 # 👽 About Me
 
-I’m a French student at 👽**Unilasalle-Amiens**👽, a **French engineering school** (Grande École d’Ingénieurs) that offers four main programs: **Agriculture & Food Engineering, Mechanics & Energy, Civil Engineering, and Computer Science & IoT**.  
+I’m a French student at 👽**Unilasalle-Amiens**👽, a **French engineering school** (Grande École d’Ingénieurs) that offers four main programs: **Energy, Building, Computer Science & IoT, and Industrial Systems**.  
 I’m currently studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
 
 I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
@@ -25,6 +25,7 @@ For me, cybersecurity will be one of the most important **pillars** to help **ma
 Data is very important for companies, and many of them do not implement proper security measures in their networks.  
 
 This year, I am looking for a **4-month internship** starting at the end of March.
+
 
 
 ## 🎵 Hobbies & Interests
