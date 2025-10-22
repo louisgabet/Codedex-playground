@@ -11,7 +11,15 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 
 # 👽 About Me
 
-I’m a French student at 👽[**Unilasalle-Amiens**](https://www.unilasalle-amiens.fr/)👽, a French engineering school (Grande École d’Ingénieurs) that offers four main programs: **Energy, Building, Computer Science & IoT, and Industrial Systems**.  
+I’m a French student at 👽[**UniLaSalle Amiens**](https://www.unilasalle-amiens.fr/)👽, a French engineering school (Grande École d’Ingénieurs) recognized by the Commission des Titres d’Ingénieur (CTI).  
+The school offers a **5-year engineering program** focusing on **Energy** and **Digital Technologies**, as well as a **3-year Bachelor's degree in Digital Engineering**.  
+
+The Amiens campus specializes in four main fields:  
+- **Energy and Smart Buildings**  
+- **Computer Networks and Connected Objects**  
+- **Automated Production and Connected Factory**  
+- **Electrical Energy and Sustainable Development**  
+
 I’m currently studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
 
 I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
@@ -25,6 +33,8 @@ For me, cybersecurity will be one of the most important **pillars** to help **ma
 Data is very important for companies, and many of them do not implement proper security measures in their networks.  
 
 This year, I am looking for a **4-month internship** starting at the end of March.
+
+---
 
 
 
