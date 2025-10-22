@@ -12,11 +12,19 @@ Through hands-on exercises and guided tutorials, I’ve learned to build real mi
 # 👽 About Me
 
 I’m a French student at 👽**Unilasalle-Amiens**👽,  
-studying **computer networking** and **IoT (Internet of Things)** in my fourth year.
+studying **computer networking** and **IoT (Internet of Things)** in my fourth year.  
+
 I want to improve my skills in different subjects like **programming**, **networking**, and my **English skills** (Yes, I know I’m French).  
 Using GitHub is the **best way to succeed**.  
 
-For now, GitHub will only focus on **programming**, but I hope that in the future, I will also explore other domains.
+For now, GitHub will only focus on **programming**, but I hope that in the future, I will also explore other domains.  
+
+At the end of my studies, I want to work in the field of **cybersecurity**, **networking**, or **Linux administration**.  
+For me, cybersecurity will be one of the most important **pillars** to help **make our society safer**.  
+
+Data is very important for companies, and many of them do not implement proper security measures in their networks.  
+
+This year, I am looking for a **4-month internship** starting at the end of March.
 
 ## 🎵 Hobbies & Interests
 
