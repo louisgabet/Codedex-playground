@@ -18,3 +18,6 @@ Each project helps me improve my problem-solving skills and write cleaner, more 
 
 Here’s a list of all the **Python projects** I’ve completed while learning on [**Codédex**](https://www.codedex.io).  
 I’ll keep adding more as I continue my journey! 🚀
+
+### 📂 My Projects
+- [x] 🧮 [Area Calculator](./python/area_calculator.py) — calculates the area of different shapes  
